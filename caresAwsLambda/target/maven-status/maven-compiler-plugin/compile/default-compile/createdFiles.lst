@@ -1,0 +1,6 @@
+gov\wisconsin\cares\lambda\EmailManager.class
+gov\wisconsin\cares\lambda\SFEventLogsHandler.class
+gov\wisconsin\cares\pojo\SFaccessToken.class
+gov\wisconsin\cares\pojo\SFEventLogFile.class
+gov\wisconsin\cares\lambda\SalesforceBO.class
+gov\wisconsin\cares\util\JWTUtils.class
